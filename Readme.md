@@ -1,7 +1,7 @@
 
 # Different Types of joins
 
-![img.png](assets/sql_queries_joins_img.png)
+![img.png](sql_queries_joins_img.png)
 
 [Read more](https://www.w3schools.com/sql/sql_join.asp)
 
