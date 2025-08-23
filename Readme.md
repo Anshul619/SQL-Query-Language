@@ -1,4 +1,4 @@
-# SQl
+# SQL (Structured Query Language)
 - SQL is a declarative language - you tell the system what you want (e.g., "give me all customers in Paris"), not how to get it.
 - You don’t specify indexes, join orders, or whether to use hash join vs. merge join.
 - This separation lets the query optimizer pick the best execution plan based on data statistics, indexes, and system resources.
