@@ -2,8 +2,8 @@
 
 | Title|Remarks|
 |--|--|
-| Use Proper Indexing||
-| Avoid SELECT *||
+| Use Proper [Indexing](https://github.com/Anshul619/Database-Internals/blob/main/DataStructures/Index.md) ||
+| Avoid SELECT * ||
 | Avoid Redundant or Unnecessary Data Retrieval||
 | Use Joins Efficiently||
 | Optimize WHERE Clauses|Filtering out as many rows as possible early in the WHERE clause can help us optimize the query.|
